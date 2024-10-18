@@ -53,6 +53,14 @@ Eintrag löschen und erneut versuchen:
 git push -u origin main
 ````
   
+Aktualisiert
+
+````
+git add .
+git commit -m "aktualisiert"
+git push -u origin main
+````
+
 ----
 
 
