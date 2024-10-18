@@ -1,0 +1,10 @@
+{
+    "compilerOptions": {
+      "outDir": "./wwwroot/js/",
+      "rootDir": "./Scripts",
+      "target": "es5",
+      "module": "es6",
+      "strict": true
+    },
+    "include": ["Scripts/**/*"]
+  }

@@ -1,0 +1,16 @@
+{
+  "name": "aspnet-bootstrap-typescript1",
+  "version": "1.0.0",
+  "description": "```` c#\r dotnet new mvc -n AspNET-Bootstrap-TypeScript1\r cd AspNET-Bootstrap-TypeScript1\r code .",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/jquery": "^3.5.31",
+    "typescript": "^5.6.3"
+  }
+}
